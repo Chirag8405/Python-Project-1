@@ -1,4 +1,4 @@
-rom IPython.display import clear_output
+from IPython.display import clear_output
 board = [" "]*10
 
 def display(board):
